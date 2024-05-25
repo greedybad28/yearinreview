@@ -17,9 +17,9 @@ export default {
 <style scoped>
 .base-card {
   background: white;
-  margin: 0 auto;
+  /* margin: 0 auto; */
   padding: 2rem 1rem;
-  border-radius: 1rem;
+  border-radius: 5re          m;
   text-align: center;
   width: 50%;
 
